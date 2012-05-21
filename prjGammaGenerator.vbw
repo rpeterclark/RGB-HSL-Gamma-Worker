@@ -1,0 +1,10 @@
+formMain = 219, 91, 1135, 894, C, 190, 205, 1106, 950, C
+modColors = 110, 125, 1026, 870, 
+clsGradient = 132, 150, 1115, 895, C
+modColorDialog = 110, 125, 1026, 870, C
+modMisc = 154, 175, 1070, 920, C
+clsFileDialog = 88, 100, 1004, 845, C
+modPathCompact = 44, 50, 960, 795, C
+clsMemDC = 176, 200, 1092, 945, C
+clsTiler = 66, 75, 982, 820, C
+formAbout = 110, 125, 1018, 862, C, 88, 100, 996, 837, C

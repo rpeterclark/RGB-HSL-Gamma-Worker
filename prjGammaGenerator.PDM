@@ -1,0 +1,450 @@
+[Root]
+Most Recent Package=Standard Setup Package 4
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\shlwapi.dll=Yes
+C:\WINDOWS\system32\uxtheme.dll=Yes
+C:\WINDOWS\system32\Custom Controls\SSubTmr6.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\uxtheme.dll=$(WinSysPath)
+C:\WINDOWS\system32\Custom Controls\SSubTmr6.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=$(AppPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=RGB-HSL-Gamma Worker
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=RGB-HSL-Gamma Worker
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|RGB-HSL-Gamma Worker]
+Icon1=GammaWorker.exe
+Title1=RGB-HSL-Gamma Worker
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages
+ProjectFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ServerSideCab=
+File1=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\setup.exe
+File2=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\Setup.Lst
+File3=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\GammaWorker.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 2|Files Added]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=
+
+[Package|Standard Setup Package 2|Files Removed]
+c:\windows\system32\uxtheme.dll=
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\shlwapi.dll=Yes
+C:\WINDOWS\system32\uxtheme.dll=No
+C:\WINDOWS\system32\Custom Controls\SSubTmr6.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\Custom Controls\SSubTmr6.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=$(AppPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=RGB-HSL-Gamma Worker
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=RGB-HSL-Gamma Worker
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|RGB-HSL-Gamma Worker]
+Icon1=GammaWorker.exe
+Title1=RGB-HSL-Gamma Worker
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=ReadMe.txt
+Title2=Read Me
+StartIn2=$(AppPath)
+Key2=Icon3
+Icon3=ST6UNST.EXE
+Title3=Uninstall
+StartIn3=$(AppPath)
+Key3=Icon4
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages
+ProjectFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ServerSideCab=
+File1=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\setup.exe
+File2=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\Setup.Lst
+File3=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\GammaWorker.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+
+[Package|Standard Setup Package 3|Files Released]
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 3|Files Added]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=
+
+[Package|Standard Setup Package 3|Files Removed]
+c:\windows\system32\uxtheme.dll=
+
+[Package|Standard Setup Package 3|Files In Project]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\shlwapi.dll=Yes
+C:\WINDOWS\system32\uxtheme.dll=No
+C:\WINDOWS\system32\SSubTmr6.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\SSubTmr6.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=$(AppPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=$(AppPath)
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=No
+
+[Package|Standard Setup Package 3|Distribution]
+Type=single
+Size=
+Title=RGB-HSL-Gamma Worker
+
+[Package|Standard Setup Package 3|IconGroups]
+Group0=RGB-HSL-Gamma Worker
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 3|RGB-HSL-Gamma Worker]
+Icon1=GammaWorker.exe
+Title1=RGB-HSL-Gamma Worker
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=ReadMe.txt
+Title2=Read Me
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages
+ProjectFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ServerSideCab=
+File1=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\setup.exe
+File2=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\Setup.Lst
+File3=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Packages\GammaWorker.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Package
+
+[Package|Standard Setup Package 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 4|Files Found]
+
+[Package|Standard Setup Package 4|Files Released]
+
+[Package|Standard Setup Package 4|Missing Dependency Information]
+
+[Package|Standard Setup Package 4|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 4|Files Added]
+c:\documents and settings\pete\my documents\my visual studio projects\gamma generator\readme.txt=
+
+[Package|Standard Setup Package 4|Files Removed]
+c:\windows\system32\shlwapi.dll=
+c:\windows\system32\uxtheme.dll=
+
+[Package|Standard Setup Package 4|Files In Project]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\shlwapi.dll=No
+C:\WINDOWS\system32\SSubTmr6.dll=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=Yes
+
+[Package|Standard Setup Package 4|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 4|Install Locations]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\SSubTmr6.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=$(AppPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=$(AppPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=$(AppPath)
+
+[Package|Standard Setup Package 4|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\GammaWorker.exe=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=No
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\ReadMe.txt=No
+
+[Package|Standard Setup Package 4|Distribution]
+Type=single
+Size=
+Title=RGB-HSL-Gamma Worker
+
+[Package|Standard Setup Package 4|Package]
+PackageFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Package
+ProjectFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ServerSideCab=
+File1=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Package\setup.exe
+File2=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Package\Setup.Lst
+File3=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\Package\GammaWorker.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 4|IconGroups]
+Group0=RGB-HSL-Gamma Worker
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 4|RGB-HSL-Gamma Worker]
+Icon1=GammaWorker.exe
+Title1=RGB-HSL-Gamma Worker
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=ReadMe.txt
+Title2=Read Me
+StartIn2=$(AppPath)
+Key2=Icon3

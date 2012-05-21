@@ -1,0 +1,271 @@
+[Root]
+Most Recent Package=Dep File 4
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=$(AppPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=$(AppPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=PNGLib.CAB
+DepCabRun=PNGLib.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ProjectFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ServerSideCab=
+File1=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+
+[Package|Dep File 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 2|Files Found]
+
+[Package|Dep File 2|Files Released]
+
+[Package|Dep File 2|Missing Dependency Information]
+
+[Package|Dep File 2|Out-of-Date Dependency Information]
+
+[Package|Dep File 2|Files Added]
+
+[Package|Dep File 2|Files Removed]
+
+[Package|Dep File 2|Files In Project]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=Yes
+
+[Package|Dep File 2|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 2|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 2|Install Locations]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=$(AppPath)
+
+[Package|Dep File 2|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 2|DepFile]
+DepCabFile=PNGLib.CAB
+DepCabRun=PNGLib.INF
+
+[Package|Dep File 2|Package]
+PackageFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ProjectFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ServerSideCab=
+File1=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 3|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+
+[Package|Dep File 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 3|Files Found]
+
+[Package|Dep File 3|Files Released]
+
+[Package|Dep File 3|Missing Dependency Information]
+
+[Package|Dep File 3|Out-of-Date Dependency Information]
+
+[Package|Dep File 3|Files Added]
+
+[Package|Dep File 3|Files Removed]
+
+[Package|Dep File 3|Files In Project]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=Yes
+
+[Package|Dep File 3|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 3|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 3|Install Locations]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=$(AppPath)
+
+[Package|Dep File 3|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 3|DepFile]
+DepCabFile=PNGLib.CAB
+DepCabRun=PNGLib.INF
+
+[Package|Dep File 3|Package]
+PackageFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ProjectFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ServerSideCab=
+File1=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 4|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+
+[Package|Dep File 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 4|Files Found]
+
+[Package|Dep File 4|Files Released]
+
+[Package|Dep File 4|Missing Dependency Information]
+
+[Package|Dep File 4|Out-of-Date Dependency Information]
+
+[Package|Dep File 4|Files Added]
+
+[Package|Dep File 4|Files Removed]
+
+[Package|Dep File 4|Files In Project]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=Yes
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=Yes
+
+[Package|Dep File 4|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 4|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 4|Install Locations]
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.dll=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\zlib.dll=$(WinSysPath)
+C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\wa3gamma.dll=$(AppPath)
+
+[Package|Dep File 4|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 4|DepFile]
+DepCabFile=PNGLib.CAB
+DepCabRun=PNGLib.INF
+
+[Package|Dep File 4|Package]
+PackageFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ProjectFolder=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator
+ServerSideCab=
+File1=C:\Documents and Settings\Pete\My Documents\My Visual Studio Projects\Gamma Generator\PNGLib.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

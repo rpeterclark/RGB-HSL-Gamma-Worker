@@ -1,0 +1,21 @@
+[Version]
+Version=1.1.0.3
+
+[GammaWorker.exe <0009>]
+Dest=$(AppPath)
+Date=12/30/2002
+Time=14:45
+Version=1.1.0.3
+CABFilename=GammaWorker.CAB
+CABINFFile=GammaWorker.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=shlwapi.dll
+Uses8=SSubTmr6.dll
+Uses9=MSCOMCTL.OCX
+Uses10=MSCOMCT2.OCX
+Uses11=PNGLib.dll
